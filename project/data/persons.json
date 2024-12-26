@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Jay Walker",
+    "what_a_ninja": "lightning ninja",
+    "age": 16,
+    "person_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTIOkY2FuA4LeW_bMj9ht9OCRJI7eaaeQmjQ&s"
+  },
+  {
+    "name": "Lloyd Montgomery Garmadon",
+    "what_a_ninja": "green ninja",
+    "age": 13,
+    "person_photo": "https://preview.redd.it/lloyd-garmadon-v0-jaq2a0ov2g1e1.jpeg?auto=webp&s=30802f9e947955d3efe32aef6550d5edeb1e841b"
+  },
+  {
+    "name": "Master Wu",
+    "what_a_ninja": "Master",
+    "age": 112,
+    "person_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ifGOCWnnqDZlFyFjF4-ny_WxwsxxuWTgbQ&s"
+  },
+  {
+    "name": "Kai",
+    "what_a_ninja": "fire ninja",
+    "age": 17,
+    "person_photo": "https://resizing.flixster.com/u_Ia_BcFoQJ-BE09ZJHFZS_eq90=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17104439_e_v9_aa.jpg"
+  },
+  {
+    "name": "Nya",
+    "what_a_ninja": "water ninja",
+    "age": 15,
+    "person_photo": "https://preview.redd.it/why-did-nya-change-her-colors-sorry-if-this-was-already-v0-njdqgba35wgb1.png?width=640&crop=smart&auto=webp&s=59de6bf0e453ca3242944b29821ac605d153851d"
+  },
+  {
+    "name": "Cole",
+    "what_a_ninja": "Ninja of the Earth",
+    "age": 18,
+    "person_photo": "https://static.wikitide.net/greatcharacterswiki/2/20/ColeS1.jpeg"
+  },
+  {
+    "name": "Zane",
+    "what_a_ninja": "ice ninja",
+    "age": 30,
+    "person_photo": "https://preview.redd.it/hero-review-zane-what-do-you-think-of-him-v0-k6066p7g4txc1.jpg?width=684&format=pjpg&auto=webp&s=984d8c56984a5ce6403a63c8664ca4ffc6ef463a"
+  },
+  {
+    "name": "Garmadon",
+    "what_a_ninja": "ninja of darkness",
+    "age": 113,
+    "person_photo": "https://preview.redd.it/what-if-garmadon-never-sacrificed-himself-v0-ulsym2ycdd6a1.jpg?auto=webp&s=d1aa2f901a71efb145676fd2279d2f274495ef5e"
+  }
+]
